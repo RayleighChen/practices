@@ -1,0 +1,2 @@
+# practices
+Do some projects
